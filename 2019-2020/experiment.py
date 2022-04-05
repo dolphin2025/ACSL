@@ -1,0 +1,1 @@
+print(min([[2,1],[2,0],[3]], key= lambda x: x[0]))

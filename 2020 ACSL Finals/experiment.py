@@ -1,0 +1,1 @@
+print(2==True, 2==False)
